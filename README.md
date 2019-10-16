@@ -1,1 +1,1 @@
-GUI app useing JavaSwing
+GUI app useing JavaSwiniig
